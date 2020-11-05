@@ -3,7 +3,7 @@
 
 ## Statistics
 
-[![Oskar's github stats](https://github-readme-stats.oskarkorczak.vercel.app/api?username=oskarkorczak&count_private=true&show_icons=true&hide=prs,contribs&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Oskar's github stats](https://github-readme-stats.oskarkorczak.vercel.app/api?username=oskarkorczak&count_private=true&show_icons=true&hide=prs,contribs&hide_border=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 	
 ## Languages
