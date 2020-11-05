@@ -3,12 +3,12 @@
 
 ### GitHub stats
 
-[![Oskar's github stats](https://github-readme-stats.vercel.app/api?username=oskarkorczak&count_private=true&show_icons=true&hide=prs,contribs&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Oskar's github stats](https://github-readme-stats.oskarkorczak.vercel.app/api?username=oskarkorczak&count_private=true&show_icons=true&hide=prs,contribs&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 	
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oskarkorczak&hide=xslt&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.oskarkorczak.vercel.app/api/top-langs/?username=oskarkorczak&hide=xslt&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tools
