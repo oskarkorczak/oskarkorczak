@@ -1,7 +1,7 @@
 # I'm Oskar :wave: I materialise things :mage_man:
 
 
-### GitHub stats
+## Statistics
 
 [![Oskar's github stats](https://github-readme-stats.oskarkorczak.vercel.app/api?username=oskarkorczak&count_private=true&show_icons=true&hide=prs,contribs&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -99,6 +99,7 @@
 <a href="https://github.com/oskarkorczak/technology-tutorials">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=technology-tutorials" />
 </a>
+
 
 
 
