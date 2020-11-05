@@ -83,12 +83,16 @@
 
 ## Repositories
 
-<a href="https://github.com/oskarkorczak/scala-seed.g8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=scala-seed.g8" />
+<a href="https://github.com/oskarkorczak/technology-tutorials">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=technology-tutorials" />
 </a>
 
 <a href="https://github.com/oskarkorczak/diagrams-as-code">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=diagrams-as-code" />
+</a>
+
+<a href="https://github.com/oskarkorczak/scala-seed.g8">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=scala-seed.g8" />
 </a>
 
 <a href="https://github.com/oskarkorczak/scala-essentials">
@@ -99,11 +103,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=monads-diy" />
 </a>
 
-<a href="https://github.com/oskarkorczak/technology-tutorials">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=technology-tutorials" />
+<a href="https://github.com/oskarkorczak/oskarkorczak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=oskarkorczak" />
 </a>
-
-
 
 
 
