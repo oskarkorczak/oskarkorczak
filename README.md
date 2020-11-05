@@ -77,5 +77,33 @@
 [<img align="left" alt="oskarkorczak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
+
+## Repositories
+
+<a href="https://github.com/oskarkorczak/scala-seed.g8">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=scala-seed.g8" />
+</a>
+
+<a href="https://github.com/oskarkorczak/diagrams-as-code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=diagrams-as-code" />
+</a>
+
+<a href="https://github.com/oskarkorczak/scala-essentials">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=scala-essentials" />
+</a>
+
+<a href="https://github.com/oskarkorczak/monads-diy">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=monads-diy" />
+</a>
+
+<a href="https://github.com/oskarkorczak/technology-tutorials">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=technology-tutorials" />
+</a>
+
+
+
+
+
+
 [linkedin]: https://www.linkedin.com/in/oskarkorczako
 
