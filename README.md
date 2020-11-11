@@ -87,8 +87,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=technology-tutorials" />
 </a>
 
-<a href="https://github.com/oskarkorczak/diagrams-as-code">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=diagrams-as-code" />
+<a href="https://github.com/oskarkorczak/hands-on-scala">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=hands-on-scala" />
+</a>
+
+<a href="https://github.com/oskarkorczak/property-based-testing-exercises">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=property-based-testing-exercises" />
 </a>
 
 <a href="https://github.com/oskarkorczak/scala-seed.g8">
@@ -103,11 +107,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=monads-diy" />
 </a>
 
+<a href="https://github.com/oskarkorczak/diagrams-as-code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=diagrams-as-code" />
+</a>
+
 <a href="https://github.com/oskarkorczak/oskarkorczak">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=oskarkorczak" />
 </a>
-
-
 
 
 
