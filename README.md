@@ -91,8 +91,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=hands-on-scala" />
 </a>
 
-<a href="https://github.com/oskarkorczak/property-based-testing-exercises">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=property-based-testing-exercises" />
+<a href="https://github.com/oskarkorczak/algebraic-structures-auto-proving">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=algebraic-structures-auto-proving" />
 </a>
 
 <a href="https://github.com/oskarkorczak/scala-seed.g8">
