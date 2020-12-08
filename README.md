@@ -17,7 +17,7 @@
 
 <img align="left" alt="Scala" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scala/scala.png" />
 
-<img align="left" alt="Groovy" width="26px" src="https://simpleicons.org/icons/groovy.svg" />
+<img align="left" alt="Groovy" width="26px" src="https://raw.githubusercontent.com/groovy/artwork/master/medium.png" />
 
 <img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
 
