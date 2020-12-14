@@ -1,5 +1,8 @@
-# I'm Oskar :wave: I materialise things :mage_man:
+# Hey, I'm Oskar
 
+A test-infected and passionate Agile software engineer. 
+
+Check out me repositories to see what I currently look at. 
 
 ## Statistics
 
