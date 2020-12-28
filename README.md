@@ -98,6 +98,10 @@ Check out me repositories to see what I currently look at.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=algebraic-structures-auto-proving" />
 </a>
 
+<a href="https://github.com/oskarkorczak/zio-fibers">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=zio-fibers" />
+</a>
+
 <a href="https://github.com/oskarkorczak/design-patterns-scala">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=design-patterns-scala" />
 </a>
