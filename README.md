@@ -85,8 +85,8 @@ Check out me repositories to see what I currently look at.
 ---
 
 ## Repositories
-<a href="https://github.com/oskarkorczak/data-analysis-exercises">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=data-analysis-exercises" />
+<a href="https://github.com/oskarkorczak/data-analysis-techniques">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oskarkorczak&repo=data-analysis-techniques" />
 </a>
 
 <a href="https://github.com/oskarkorczak/technology-tutorials">
