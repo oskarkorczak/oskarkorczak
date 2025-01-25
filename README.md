@@ -4,15 +4,6 @@ A test-infected and passionate Agile software engineer.
 
 Check out me repositories to see what I currently look at. 
 
-## Statistics
-
-[![Oskar's github stats](https://github-readme-stats.oskarkorczak.vercel.app/api?username=oskarkorczak&count_private=true&show_icons=true&hide=prs,contribs&hide_border=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
-	
-## Languages
-
-[![Top Langs](https://github-readme-stats.oskarkorczak.vercel.app/api/top-langs/?username=oskarkorczak&hide=xslt&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Tools
 
